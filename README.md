@@ -2,7 +2,7 @@
 <!--<a href="https://www.facebook.com/profile.php?id=100070987320961/">
 <img src="https://raw.githubusercontent.com/sifat-99/sifat-99/main/images/CoverBanner.png" />
 </a> -->
-<!--![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif) -->
+![Banner]![Top-UI-UX-Design-Trends](https://github.com/user-attachments/assets/5f1e9b57-9c30-4aa7-a426-bd9e596d25e6)
 
 <h1 align="center">Hi 👋, I'm Kanis Fatema</h1>
 
