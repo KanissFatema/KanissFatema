@@ -1,8 +1,8 @@
-<a href="https://www.facebook.com/profile.php?id=100070987320961/">
-<img src="https://github.com/user-attachments/assets/5f1e9b57-9c30-4aa7-a426-bd9e596d25e6" />
-<img src="" />
-</a> 
+<div align="center">
+  <img height="200" src="https://github.com/user-attachments/assets/5f1e9b57-9c30-4aa7-a426-bd9e596d25e6"  />
+</div>
 
+###
 
 <h1 align="center">Hi 👋, I'm Kanis Fatema</h1>
 
